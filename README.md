@@ -1,3 +1,3 @@
 ### `pnpm run dev`
 
-### `npm run json-server`
+### `pnpm run json-server`
